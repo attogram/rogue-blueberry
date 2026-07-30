@@ -1,0 +1,26 @@
+# Ignore Python cache and bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore data files
+*.csv
+*.tsv
+*.json
+*.sqlite
+*.db
+
+# Ignore logs
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor files
+.vscode/
+.idea/
+*.swp
